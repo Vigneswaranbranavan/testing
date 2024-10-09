@@ -49,7 +49,10 @@ namespace ConsoleApp1
 
                 command.ExecuteNonQuery();
             }
-            return "Movie Added Successfully";
+            return "Added Successfully";
+
+
+
         }
     }
 }
